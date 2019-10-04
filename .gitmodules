@@ -1,0 +1,6 @@
+[submodule "tclap"]
+	path = tclap
+	url = https://github.com/mirror/tclap.git
+[submodule "dlib"]
+	path = dlib
+	url = https://github.com/davisking/dlib.git
